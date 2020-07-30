@@ -1,0 +1,229 @@
+{
+  "categorias": [
+    {
+      "titulo": "Séries",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#8B0000",
+      "link_extra": {
+        "text": "Catálogo de séries",
+        "url": "https://www.netflix.com/"
+      },
+      "videos": [
+        {
+          "titulo": "A memória é uma coisa estranha. Estamos tão presos pelo tempo. Pela sua ordem.",
+          "url": "https://www.youtube.com/watch?v=2VDOXprUBtU"
+        },
+        {
+          "titulo": "Dark",
+          "url": "https://www.youtube.com/watch?v=rrwycJ08PSA"
+        },
+        {
+          "titulo": "Mr Robot",
+          "url": "https://www.youtube.com/watch?v=xIBiJ_SzJTA"
+        },
+        {
+          "titulo": "Dexter",
+          "url": "https://www.youtube.com/watch?v=YQeUmSD1c3g"
+        },
+        {
+          "titulo": "Killing Eve",
+          "url": "https://www.youtube.com/watch?v=Kk0PyD-XNZA"
+        },
+        {
+          "titulo": "Euphoria",
+          "url": "https://www.youtube.com/watch?v=6XGnv7Zgbeg"
+        },
+        {
+          "titulo": "Sharp Objects",
+          "url": "https://www.youtube.com/watch?v=3C6YVcwtSLY"
+        },
+        {
+          "titulo": "The OA",
+          "url": "https://www.youtube.com/watch?v=DvHJtez2IlY"
+        }        
+      ]
+    },
+    {
+      "titulo": "Músicas",
+      "cor": "#8B0000",
+      "link_extra": {
+        "text": "Catálogo de músicas",
+        "url": "https://www.spotify.com/"
+      },
+      "videos": [
+        {
+          "titulo": "Taylor Swift - Cardigan  ",
+          "url": "https://www.youtube.com/watch?v=K-a8s8OLBSE"
+        },
+        {
+          "titulo": "Twenty One Pilots - Nico And The Niners",
+          "url": "https://www.youtube.com/watch?v=hMAPyGoqQVw"
+        },
+        {
+          "titulo": "Imagine Dragons - Natural",
+          "url": "https://www.youtube.com/watch?v=0I647GU3Jsc"
+        },
+        {
+          "titulo": "Paramore - Hard Times",
+          "url": "https://www.youtube.com/watch?v=AEB6ibtdPZc"
+        }, 
+        {
+          "titulo": "Lorde - Tennis Court",
+          "url": "https://www.youtube.com/watch?v=D8Ymd-OCucs"
+        }, 
+        {
+          "titulo": "Conan Gray - Maniac",
+          "url": "https://www.youtube.com/watch?v=-E-_IRJU5w0"
+        }, 
+        {
+          "titulo": "Wallows - Are you bored yet? (feat. Clairo)",
+          "url": "https://www.youtube.com/watch?v=wIgmyE5Juzw"
+        }
+      ]
+    },
+    {
+      "titulo": "Documentários",
+      "cor": "#B22222",
+      "link_extra": {
+        "text": "Catálogo de documentários",
+        "url": "https://www.primevideo.com/"
+      },
+      "videos": [
+        {
+          "titulo": "Amanda Knox",
+          "url": "https://www.youtube.com/watch?v=cNxe1X_P3Tw"
+        },
+        {
+          "titulo": "Democracia em Vertigem",
+          "url": "https://www.youtube.com/watch?v=vwZ5m10y1rQ"
+        },
+        {
+          "titulo": "Privacidade Hackeada",
+          "url": "https://www.youtube.com/watch?v=wjXYCrxRWqc"
+        },
+        {
+          "titulo": "Indústria Americana",
+          "url": "https://www.youtube.com/watch?v=5sFFttgfljU"
+        },
+        {
+          "titulo": "Despertar Data Limite",
+          "url": "https://www.youtube.com/watch?v=sECgqH-bBtk"
+        },
+        {
+          "titulo": "Under an Artic Sky",
+          "url": "https://www.youtube.com/watch?v=rJF_ox4UEfM"
+        },
+        {
+          "titulo": "Guardiões da Amazônia",
+          "url": "https://www.youtube.com/watch?v=BdTAbgPQuNI"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "#A52A2A",
+      "link_extra": {
+        "text": "Catálogo de filmes",
+        "url": "https://www.netflix.com/"
+      },
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "As vantagens de ser invisível",
+          "url": "https://www.youtube.com/watch?v=n5rh7O4IDc0"
+        },
+        {
+          "titulo": "Cisne Negro",
+          "url": "https://www.youtube.com/watch?v=5jaI1XOB-bs"
+        },
+        {
+          "titulo": "Lady Bird",
+          "url": "https://www.youtube.com/watch?v=cNi_HC839Wo"
+        },
+        {
+          "titulo": "Garota Infernal",
+          "url": "https://www.youtube.com/watch?v=HUjZHFNMlOM"
+        },
+        {
+          "titulo": "Fora de Série",
+          "url": "https://www.youtube.com/watch?v=Uhd3lo_IWJc"
+        },
+        {
+          "titulo": "O Homem Nas Trevas",
+          "url": "https://www.youtube.com/watch?v=76yBTNDB6vU"
+        }
+      ]
+    },
+    {
+      "titulo": "Jogos",
+      "cor": "red",
+      "link_extra": {
+        "text": "Catálogo de jogos",
+        "url": "https://store.steampowered.com/"
+      },
+      "videos": [
+        {
+          "titulo": "The Sims 4",
+          "url": "https://www.youtube.com/watch?v=z00mK3Pxc8w"
+        },
+        {
+          "titulo": "Silent Hill",
+          "url": "https://www.youtube.com/watch?v=BS7xj78t4dk"
+        },
+        {
+          "titulo": "Dota 2",
+          "url": "https://www.youtube.com/watch?v=-cSFPIwMEq4"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Perfect World Mobile",
+          "url": "https://www.youtube.com/watch?v=LkUa161XdnU"
+        },
+        {
+          "titulo": "Sherlock Holmes: Chapter One",
+          "url": "https://www.youtube.com/watch?v=OQoDjyusE-0"
+        },
+        {
+          "titulo": "Life is Strange",
+          "url": "https://www.youtube.com/watch?v=AURVxvIZrmU"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
