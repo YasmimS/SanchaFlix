@@ -23,3 +23,16 @@ body {
 a {
   color: inherit;
 } 
+
+#root {
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  display: flex;
+  flex-direction: column;
+}
+
+.error404 {
+  background-image: url("./pages/pagina404.png");
+  background-repeat: no-repeat;
+  height: 750px ;
+  background-position: center;
+}
